@@ -1,5 +1,5 @@
 
-# Project Title
+# Sana the artist generates beautiful pictures for you.
 
 A brief experimentation with canvas-sketch
 
