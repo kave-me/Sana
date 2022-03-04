@@ -36,7 +36,7 @@ cd Sana/one
 canvas-sketch one --output=pathToOutput
 
 ```
-After lunching the last command canvas-sketch will give you a URL to start your journey.
+After launching the last command canvas-sketch will give you a URL to start your journey.
     
 ## Demo
 
