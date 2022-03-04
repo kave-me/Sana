@@ -32,12 +32,12 @@ Install my-project with npm
 
 # Install the CLI tool globally
 npm install canvas-sketch-cli -g
-cd Sana/one
-canvas-sketch one --output=pathToOutput
+cd Sana
+canvas-sketch sana --output=pathToOutput
 
 ```
 After launching the last command canvas-sketch will give you a URL to start your journey.
-    
+
 ## Demo
 
 ![Sample one](sample/1.png?raw=true "Sample one")
