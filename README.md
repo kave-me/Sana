@@ -25,17 +25,15 @@ That's a good choice to start learning and digging into the rabbit hole but for 
 
 ## Installation
 
-Install my-project with npm
+Install dependencies with npm
 
 ```bash
-
-
 # Install the CLI tool globally
 npm install canvas-sketch-cli -g
 cd Sana
 canvas-sketch sana --output=pathToOutput
-
 ```
+
 After launching the last command canvas-sketch will give you a URL to start your journey.
 
 ## Demo
